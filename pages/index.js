@@ -19,14 +19,14 @@ export default function Home() {
         </h1>
   
         <p className="mt-3 text-2xl">
-          Accenture - Emerging Technology Application
+          EY - Emerging Technology Application
         </p>
   
         <div className="mt-8 text-left space-y-8">
           <section>
             <h2 className="text-4xl font-semibold">About Me</h2>
             <p className="mt-2">
-             curious thinker keen to crypto, AI, socialfi, decentralization and basketball
+             curious thinker keen to crypto, AI, socialfi and basketball; trying to build a better world
             </p>
           </section>
           
