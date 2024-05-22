@@ -19,12 +19,7 @@ export default function Home() {
         <a href="https://www.linkedin.com/in/jack-smith-wde/" className="text-blue-500 mt-2 lg:mt-0 lg:absolute lg:top-4 lg:right-4 hover:underline">LinkedIn</a>
   
         <div className="mt-8 text-left space-y-8 grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <section className="col-span-1 lg:col-span-2">
-            <h2 className="text-3xl sm:text-4xl font-semibold text-gray-800">About Me</h2>
-            <p className="mt-2 text-lg text-gray-700">
-              Curious thinker keen to crypto, AI, socialfi and basketball; trying to build a better world
-            </p>
-          </section>
+        
           
           <WorkExp />
           <Projects />
