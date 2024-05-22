@@ -11,7 +11,7 @@ export default function Projects() {
         </li>
         <li>
           The Smith Agency
-          <p className="text-sm text-gray-600">Wholesale Staffing Service CRM</p>
+          <p className="text-sm text-gray-600">Wholesale Staffing CRM</p>
         </li>
         <li>
           AI Song Writer
