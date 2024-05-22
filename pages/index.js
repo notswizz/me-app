@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
   
-      <main className="flex flex-col items-center justify-center w-full flex-1 px-4 sm:px-10 lg:px-20 text-center bg-white shadow-2xl rounded-3xl max-w-4xl mx-6 my-6 relative">
+      <main className="flex flex-col items-center justify-center w-full flex-1 px-4 sm:px-10 lg:px-20 text-center bg-white shadow-2xl rounded-3xl max-w-4xl mx-6 my-6 relative pb-10">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 mt-6">
           Jack Smith
         </h1>
